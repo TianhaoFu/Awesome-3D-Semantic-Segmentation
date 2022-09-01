@@ -5,6 +5,10 @@
 
 # Awesome-3D-Semantic-Segmentation
 A curated list of research in 3D Semantic Segmentation(**Lidar-based Method**). 
+
+You are very welcome to pull request to update this list. :smiley:   
+![3D Semantic Segmentation](https://github.com/TianhaoFu/Awesome-3D-Semantic-Segmentation/blob/main/3d_seg.png)
+
 ## Dataset
 - [SemanticKitti Dataset](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d)
   - 3,712 training samples
